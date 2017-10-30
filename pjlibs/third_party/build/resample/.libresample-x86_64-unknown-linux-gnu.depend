@@ -1,0 +1,4 @@
+output/libresample-x86_64-unknown-linux-gnu/resamplesubs.o: ../../resample/src/resamplesubs.c \
+ /usr/include/stdc-predef.h ../../resample/include/resamplesubs.h \
+ config.h ../../resample/src/stddefs.h ../../resample/src/resample.h \
+ ../../resample/src/smallfilter.h ../../resample/src/largefilter.h

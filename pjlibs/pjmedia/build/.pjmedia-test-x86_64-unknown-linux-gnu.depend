@@ -1,0 +1,1186 @@
+output/pjmedia-test-x86_64-unknown-linux-gnu/codec_vectors.o: ../src/test/codec_vectors.c /usr/include/stdc-predef.h \
+ ../src/test/test.h ../include/pjmedia.h ../include/pjmedia/alaw_ulaw.h \
+ ../include/pjmedia/types.h ../include/pjmedia/config.h \
+ ../../pjlib/include/pj/config.h ../../pjlib/include/pj/compat/cc_gcc.h \
+ ../../pjlib/include/pj/compat/os_auto.h \
+ ../../pjlib/include/pj/compat/m_auto.h \
+ ../../pjlib/include/pj/compat/size_t.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ ../../pjlib/include/pj/config_site.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ ../include/pjmedia/config_auto.h ../../pjlib/include/pj/sock.h \
+ ../../pjlib/include/pj/types.h ../include/pjmedia/avi_stream.h \
+ ../include/pjmedia/port.h ../include/pjmedia/clock.h \
+ ../include/pjmedia/event.h ../include/pjmedia/format.h \
+ ../include/pjmedia/signatures.h ../include/pjmedia/frame.h \
+ ../../pjlib/include/pj/string.h ../../pjlib/include/pj/compat/string.h \
+ /usr/include/string.h /usr/include/xlocale.h \
+ /usr/include/x86_64-linux-gnu/bits/string.h \
+ /usr/include/x86_64-linux-gnu/bits/string2.h /usr/include/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap-16.h /usr/include/stdlib.h \
+ /usr/include/x86_64-linux-gnu/bits/string3.h /usr/include/stdio.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+ /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+ /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+ /usr/include/x86_64-linux-gnu/sys/types.h /usr/include/time.h \
+ /usr/include/x86_64-linux-gnu/sys/select.h \
+ /usr/include/x86_64-linux-gnu/bits/select.h \
+ /usr/include/x86_64-linux-gnu/bits/sigset.h \
+ /usr/include/x86_64-linux-gnu/bits/time.h \
+ /usr/include/x86_64-linux-gnu/bits/select2.h \
+ /usr/include/x86_64-linux-gnu/sys/sysmacros.h \
+ /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h /usr/include/alloca.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+ ../../pjlib/include/pj/assert.h ../../pjlib/include/pj/compat/assert.h \
+ /usr/include/assert.h ../../pjlib/include/pj/os.h \
+ ../include/pjmedia/bidirectional.h ../include/pjmedia/circbuf.h \
+ ../../pjlib/include/pj/errno.h ../../pjlib/include/pj/compat/errno.h \
+ ../../pjlib/include/pj/pool.h ../../pjlib/include/pj/list.h \
+ ../include/pjmedia/codec.h ../include/pjmedia/conference.h \
+ ../include/pjmedia/converter.h ../include/pjmedia/delaybuf.h \
+ ../include/pjmedia/echo.h ../include/pjmedia/echo_port.h \
+ ../include/pjmedia/endpoint.h ../include/pjmedia/sdp.h \
+ ../include/pjmedia/transport.h ../include/pjmedia/errno.h \
+ ../include/pjmedia-audiodev/audiodev.h ../include/pjmedia/audiodev.h \
+ ../include/pjmedia-audiodev/config.h ../include/pjmedia-audiodev/errno.h \
+ ../include/pjmedia/g711.h ../include/pjmedia-codec/types.h \
+ ../include/pjmedia-codec/config.h ../include/pjmedia-codec/config_auto.h \
+ ../include/pjmedia/jbuf.h ../include/pjmedia/master_port.h \
+ ../include/pjmedia/mem_port.h ../include/pjmedia/null_port.h \
+ ../include/pjmedia/plc.h ../include/pjmedia/resample.h \
+ ../include/pjmedia/rtcp.h ../include/pjmedia/rtcp_xr.h \
+ ../../pjlib/include/pj/math.h \
+ ../../pjlib/include/pj/compat/high_precision.h /usr/include/math.h \
+ /usr/include/x86_64-linux-gnu/bits/math-vector.h \
+ /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_val.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_valf.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_vall.h \
+ /usr/include/x86_64-linux-gnu/bits/inf.h \
+ /usr/include/x86_64-linux-gnu/bits/nan.h \
+ /usr/include/x86_64-linux-gnu/bits/mathdef.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
+ /usr/include/x86_64-linux-gnu/bits/mathinline.h ../include/pjmedia/rtp.h \
+ ../include/pjmedia/sdp_neg.h ../include/pjmedia/silencedet.h \
+ ../include/pjmedia/sound.h ../include/pjmedia/sound_port.h \
+ ../include/pjmedia/splitcomb.h ../include/pjmedia/stereo.h \
+ ../include/pjmedia/stream.h ../include/pjmedia/vid_codec.h \
+ ../include/pjmedia/stream_common.h ../include/pjmedia/tonegen.h \
+ ../include/pjmedia/transport_adapter_sample.h \
+ ../include/pjmedia/transport_ice.h \
+ ../../pjnath/include/pjnath/ice_strans.h \
+ ../../pjnath/include/pjnath/ice_session.h \
+ ../../pjnath/include/pjnath/types.h ../../pjnath/include/pjnath/config.h \
+ ../../pjnath/include/pjnath/stun_session.h \
+ ../../pjnath/include/pjnath/stun_msg.h \
+ ../../pjnath/include/pjnath/stun_auth.h \
+ ../../pjnath/include/pjnath/stun_config.h \
+ ../../pjnath/include/pjnath/stun_transaction.h \
+ ../../pjlib/include/pj/lock.h ../../pjlib/include/pj/timer.h \
+ ../../pjnath/include/pjnath/errno.h \
+ ../../pjnath/include/pjnath/stun_sock.h \
+ ../../pjlib-util/include/pjlib-util/resolver.h \
+ ../../pjlib-util/include/pjlib-util/dns.h \
+ ../../pjlib-util/include/pjlib-util/types.h \
+ ../../pjlib-util/include/pjlib-util/config.h \
+ ../../pjlib/include/pj/ioqueue.h ../../pjlib/include/pj/sock_qos.h \
+ ../../pjnath/include/pjnath/turn_sock.h \
+ ../../pjnath/include/pjnath/turn_session.h \
+ ../include/pjmedia/transport_loop.h ../include/pjmedia/transport_srtp.h \
+ ../include/pjmedia/transport_udp.h ../include/pjmedia/vid_port.h \
+ ../include/pjmedia-videodev/videodev.h ../include/pjmedia/videodev.h \
+ ../include/pjmedia-videodev/config.h ../include/pjmedia-videodev/errno.h \
+ ../include/pjmedia/vid_stream.h ../include/pjmedia/vid_tee.h \
+ ../include/pjmedia/wav_playlist.h ../include/pjmedia/wav_port.h \
+ ../include/pjmedia/wave.h ../include/pjmedia/wsola.h \
+ ../../pjlib/include/pjlib.h ../../pjlib/include/pj/activesock.h \
+ ../../pjlib/include/pj/addr_resolv.h ../../pjlib/include/pj/array.h \
+ ../../pjlib/include/pj/ctype.h ../../pjlib/include/pj/compat/ctype.h \
+ /usr/include/ctype.h ../../pjlib/include/pj/except.h \
+ ../../pjlib/include/pj/compat/setjmp.h /usr/include/setjmp.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp2.h \
+ ../../pjlib/include/pj/log.h ../../pjlib/include/pj/fifobuf.h \
+ ../../pjlib/include/pj/file_access.h ../../pjlib/include/pj/file_io.h \
+ ../../pjlib/include/pj/guid.h ../../pjlib/include/pj/hash.h \
+ ../../pjlib/include/pj/ip_helper.h ../../pjlib/include/pj/pool_buf.h \
+ ../../pjlib/include/pj/rand.h ../../pjlib/include/pj/rbtree.h \
+ ../../pjlib/include/pj/sock_select.h ../../pjlib/include/pj/ssl_sock.h \
+ ../../pjlib/include/pj/unicode.h ../include/pjmedia-codec.h \
+ ../include/pjmedia-codec/audio_codecs.h \
+ ../include/pjmedia-codec/passthrough.h ../include/pjmedia-codec/l16.h \
+ ../include/pjmedia-codec/ffmpeg_vid_codecs.h \
+ ../include/pjmedia-codec/gsm.h ../include/pjmedia-codec/speex.h \
+ ../include/pjmedia-codec/ilbc.h ../include/pjmedia-codec/g722.h \
+ ../include/pjmedia-codec/g7221.h ../include/pjmedia-codec/ipp_codecs.h \
+ ../include/pjmedia-codec/opencore_amr.h \
+ ../include/pjmedia-codec/vid_toolbox.h \
+ ../include/pjmedia-codec/openh264.h ../include/pjmedia-codec/silk.h \
+ ../include/pjmedia-codec/opus.h ../include/pjmedia-codec/bcg729.h
+output/pjmedia-test-x86_64-unknown-linux-gnu/jbuf_test.o: ../src/test/jbuf_test.c /usr/include/stdc-predef.h \
+ /usr/include/stdio.h /usr/include/features.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio2.h /usr/include/ctype.h \
+ /usr/include/endian.h /usr/include/x86_64-linux-gnu/bits/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap-16.h /usr/include/xlocale.h \
+ ../../pjlib/include/pj/pool.h ../../pjlib/include/pj/list.h \
+ ../../pjlib/include/pj/types.h ../../pjlib/include/pj/config.h \
+ ../../pjlib/include/pj/compat/cc_gcc.h \
+ ../../pjlib/include/pj/compat/os_auto.h \
+ ../../pjlib/include/pj/compat/m_auto.h \
+ ../../pjlib/include/pj/compat/size_t.h \
+ ../../pjlib/include/pj/config_site.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h ../src/test/test.h \
+ ../include/pjmedia.h ../include/pjmedia/alaw_ulaw.h \
+ ../include/pjmedia/types.h ../include/pjmedia/config.h \
+ ../include/pjmedia/config_auto.h ../../pjlib/include/pj/sock.h \
+ ../include/pjmedia/avi_stream.h ../include/pjmedia/port.h \
+ ../include/pjmedia/clock.h ../include/pjmedia/event.h \
+ ../include/pjmedia/format.h ../include/pjmedia/signatures.h \
+ ../include/pjmedia/frame.h ../../pjlib/include/pj/string.h \
+ ../../pjlib/include/pj/compat/string.h /usr/include/string.h \
+ /usr/include/x86_64-linux-gnu/bits/string.h \
+ /usr/include/x86_64-linux-gnu/bits/string2.h /usr/include/stdlib.h \
+ /usr/include/x86_64-linux-gnu/bits/string3.h \
+ /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+ /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+ /usr/include/x86_64-linux-gnu/sys/types.h /usr/include/time.h \
+ /usr/include/x86_64-linux-gnu/sys/select.h \
+ /usr/include/x86_64-linux-gnu/bits/select.h \
+ /usr/include/x86_64-linux-gnu/bits/sigset.h \
+ /usr/include/x86_64-linux-gnu/bits/time.h \
+ /usr/include/x86_64-linux-gnu/bits/select2.h \
+ /usr/include/x86_64-linux-gnu/sys/sysmacros.h \
+ /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h /usr/include/alloca.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+ ../../pjlib/include/pj/assert.h ../../pjlib/include/pj/compat/assert.h \
+ /usr/include/assert.h ../../pjlib/include/pj/os.h \
+ ../include/pjmedia/bidirectional.h ../include/pjmedia/circbuf.h \
+ ../../pjlib/include/pj/errno.h ../../pjlib/include/pj/compat/errno.h \
+ ../include/pjmedia/codec.h ../include/pjmedia/conference.h \
+ ../include/pjmedia/converter.h ../include/pjmedia/delaybuf.h \
+ ../include/pjmedia/echo.h ../include/pjmedia/echo_port.h \
+ ../include/pjmedia/endpoint.h ../include/pjmedia/sdp.h \
+ ../include/pjmedia/transport.h ../include/pjmedia/errno.h \
+ ../include/pjmedia-audiodev/audiodev.h ../include/pjmedia/audiodev.h \
+ ../include/pjmedia-audiodev/config.h ../include/pjmedia-audiodev/errno.h \
+ ../include/pjmedia/g711.h ../include/pjmedia-codec/types.h \
+ ../include/pjmedia-codec/config.h ../include/pjmedia-codec/config_auto.h \
+ ../include/pjmedia/jbuf.h ../include/pjmedia/master_port.h \
+ ../include/pjmedia/mem_port.h ../include/pjmedia/null_port.h \
+ ../include/pjmedia/plc.h ../include/pjmedia/resample.h \
+ ../include/pjmedia/rtcp.h ../include/pjmedia/rtcp_xr.h \
+ ../../pjlib/include/pj/math.h \
+ ../../pjlib/include/pj/compat/high_precision.h /usr/include/math.h \
+ /usr/include/x86_64-linux-gnu/bits/math-vector.h \
+ /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_val.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_valf.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_vall.h \
+ /usr/include/x86_64-linux-gnu/bits/inf.h \
+ /usr/include/x86_64-linux-gnu/bits/nan.h \
+ /usr/include/x86_64-linux-gnu/bits/mathdef.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
+ /usr/include/x86_64-linux-gnu/bits/mathinline.h ../include/pjmedia/rtp.h \
+ ../include/pjmedia/sdp_neg.h ../include/pjmedia/silencedet.h \
+ ../include/pjmedia/sound.h ../include/pjmedia/sound_port.h \
+ ../include/pjmedia/splitcomb.h ../include/pjmedia/stereo.h \
+ ../include/pjmedia/stream.h ../include/pjmedia/vid_codec.h \
+ ../include/pjmedia/stream_common.h ../include/pjmedia/tonegen.h \
+ ../include/pjmedia/transport_adapter_sample.h \
+ ../include/pjmedia/transport_ice.h \
+ ../../pjnath/include/pjnath/ice_strans.h \
+ ../../pjnath/include/pjnath/ice_session.h \
+ ../../pjnath/include/pjnath/types.h ../../pjnath/include/pjnath/config.h \
+ ../../pjnath/include/pjnath/stun_session.h \
+ ../../pjnath/include/pjnath/stun_msg.h \
+ ../../pjnath/include/pjnath/stun_auth.h \
+ ../../pjnath/include/pjnath/stun_config.h \
+ ../../pjnath/include/pjnath/stun_transaction.h \
+ ../../pjlib/include/pj/lock.h ../../pjlib/include/pj/timer.h \
+ ../../pjnath/include/pjnath/errno.h \
+ ../../pjnath/include/pjnath/stun_sock.h \
+ ../../pjlib-util/include/pjlib-util/resolver.h \
+ ../../pjlib-util/include/pjlib-util/dns.h \
+ ../../pjlib-util/include/pjlib-util/types.h \
+ ../../pjlib-util/include/pjlib-util/config.h \
+ ../../pjlib/include/pj/ioqueue.h ../../pjlib/include/pj/sock_qos.h \
+ ../../pjnath/include/pjnath/turn_sock.h \
+ ../../pjnath/include/pjnath/turn_session.h \
+ ../include/pjmedia/transport_loop.h ../include/pjmedia/transport_srtp.h \
+ ../include/pjmedia/transport_udp.h ../include/pjmedia/vid_port.h \
+ ../include/pjmedia-videodev/videodev.h ../include/pjmedia/videodev.h \
+ ../include/pjmedia-videodev/config.h ../include/pjmedia-videodev/errno.h \
+ ../include/pjmedia/vid_stream.h ../include/pjmedia/vid_tee.h \
+ ../include/pjmedia/wav_playlist.h ../include/pjmedia/wav_port.h \
+ ../include/pjmedia/wave.h ../include/pjmedia/wsola.h \
+ ../../pjlib/include/pjlib.h ../../pjlib/include/pj/activesock.h \
+ ../../pjlib/include/pj/addr_resolv.h ../../pjlib/include/pj/array.h \
+ ../../pjlib/include/pj/ctype.h ../../pjlib/include/pj/compat/ctype.h \
+ ../../pjlib/include/pj/except.h ../../pjlib/include/pj/compat/setjmp.h \
+ /usr/include/setjmp.h /usr/include/x86_64-linux-gnu/bits/setjmp.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp2.h \
+ ../../pjlib/include/pj/log.h ../../pjlib/include/pj/fifobuf.h \
+ ../../pjlib/include/pj/file_access.h ../../pjlib/include/pj/file_io.h \
+ ../../pjlib/include/pj/guid.h ../../pjlib/include/pj/hash.h \
+ ../../pjlib/include/pj/ip_helper.h ../../pjlib/include/pj/pool_buf.h \
+ ../../pjlib/include/pj/rand.h ../../pjlib/include/pj/rbtree.h \
+ ../../pjlib/include/pj/sock_select.h ../../pjlib/include/pj/ssl_sock.h \
+ ../../pjlib/include/pj/unicode.h
+output/pjmedia-test-x86_64-unknown-linux-gnu/main.o: ../src/test/main.c /usr/include/stdc-predef.h \
+ ../../pjlib/include/pj/os.h ../../pjlib/include/pj/types.h \
+ ../../pjlib/include/pj/config.h ../../pjlib/include/pj/compat/cc_gcc.h \
+ ../../pjlib/include/pj/compat/os_auto.h \
+ ../../pjlib/include/pj/compat/m_auto.h \
+ ../../pjlib/include/pj/compat/size_t.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ ../../pjlib/include/pj/config_site.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h ../src/test/test.h \
+ ../include/pjmedia.h ../include/pjmedia/alaw_ulaw.h \
+ ../include/pjmedia/types.h ../include/pjmedia/config.h \
+ ../include/pjmedia/config_auto.h ../../pjlib/include/pj/sock.h \
+ ../include/pjmedia/avi_stream.h ../include/pjmedia/port.h \
+ ../include/pjmedia/clock.h ../include/pjmedia/event.h \
+ ../include/pjmedia/format.h ../include/pjmedia/signatures.h \
+ ../include/pjmedia/frame.h ../../pjlib/include/pj/string.h \
+ ../../pjlib/include/pj/compat/string.h /usr/include/string.h \
+ /usr/include/xlocale.h /usr/include/x86_64-linux-gnu/bits/string.h \
+ /usr/include/x86_64-linux-gnu/bits/string2.h /usr/include/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap-16.h /usr/include/stdlib.h \
+ /usr/include/x86_64-linux-gnu/bits/string3.h /usr/include/stdio.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+ /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+ /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+ /usr/include/x86_64-linux-gnu/sys/types.h /usr/include/time.h \
+ /usr/include/x86_64-linux-gnu/sys/select.h \
+ /usr/include/x86_64-linux-gnu/bits/select.h \
+ /usr/include/x86_64-linux-gnu/bits/sigset.h \
+ /usr/include/x86_64-linux-gnu/bits/time.h \
+ /usr/include/x86_64-linux-gnu/bits/select2.h \
+ /usr/include/x86_64-linux-gnu/sys/sysmacros.h \
+ /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h /usr/include/alloca.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+ ../../pjlib/include/pj/assert.h ../../pjlib/include/pj/compat/assert.h \
+ /usr/include/assert.h ../include/pjmedia/bidirectional.h \
+ ../include/pjmedia/circbuf.h ../../pjlib/include/pj/errno.h \
+ ../../pjlib/include/pj/compat/errno.h ../../pjlib/include/pj/pool.h \
+ ../../pjlib/include/pj/list.h ../include/pjmedia/codec.h \
+ ../include/pjmedia/conference.h ../include/pjmedia/converter.h \
+ ../include/pjmedia/delaybuf.h ../include/pjmedia/echo.h \
+ ../include/pjmedia/echo_port.h ../include/pjmedia/endpoint.h \
+ ../include/pjmedia/sdp.h ../include/pjmedia/transport.h \
+ ../include/pjmedia/errno.h ../include/pjmedia-audiodev/audiodev.h \
+ ../include/pjmedia/audiodev.h ../include/pjmedia-audiodev/config.h \
+ ../include/pjmedia-audiodev/errno.h ../include/pjmedia/g711.h \
+ ../include/pjmedia-codec/types.h ../include/pjmedia-codec/config.h \
+ ../include/pjmedia-codec/config_auto.h ../include/pjmedia/jbuf.h \
+ ../include/pjmedia/master_port.h ../include/pjmedia/mem_port.h \
+ ../include/pjmedia/null_port.h ../include/pjmedia/plc.h \
+ ../include/pjmedia/resample.h ../include/pjmedia/rtcp.h \
+ ../include/pjmedia/rtcp_xr.h ../../pjlib/include/pj/math.h \
+ ../../pjlib/include/pj/compat/high_precision.h /usr/include/math.h \
+ /usr/include/x86_64-linux-gnu/bits/math-vector.h \
+ /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_val.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_valf.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_vall.h \
+ /usr/include/x86_64-linux-gnu/bits/inf.h \
+ /usr/include/x86_64-linux-gnu/bits/nan.h \
+ /usr/include/x86_64-linux-gnu/bits/mathdef.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
+ /usr/include/x86_64-linux-gnu/bits/mathinline.h ../include/pjmedia/rtp.h \
+ ../include/pjmedia/sdp_neg.h ../include/pjmedia/silencedet.h \
+ ../include/pjmedia/sound.h ../include/pjmedia/sound_port.h \
+ ../include/pjmedia/splitcomb.h ../include/pjmedia/stereo.h \
+ ../include/pjmedia/stream.h ../include/pjmedia/vid_codec.h \
+ ../include/pjmedia/stream_common.h ../include/pjmedia/tonegen.h \
+ ../include/pjmedia/transport_adapter_sample.h \
+ ../include/pjmedia/transport_ice.h \
+ ../../pjnath/include/pjnath/ice_strans.h \
+ ../../pjnath/include/pjnath/ice_session.h \
+ ../../pjnath/include/pjnath/types.h ../../pjnath/include/pjnath/config.h \
+ ../../pjnath/include/pjnath/stun_session.h \
+ ../../pjnath/include/pjnath/stun_msg.h \
+ ../../pjnath/include/pjnath/stun_auth.h \
+ ../../pjnath/include/pjnath/stun_config.h \
+ ../../pjnath/include/pjnath/stun_transaction.h \
+ ../../pjlib/include/pj/lock.h ../../pjlib/include/pj/timer.h \
+ ../../pjnath/include/pjnath/errno.h \
+ ../../pjnath/include/pjnath/stun_sock.h \
+ ../../pjlib-util/include/pjlib-util/resolver.h \
+ ../../pjlib-util/include/pjlib-util/dns.h \
+ ../../pjlib-util/include/pjlib-util/types.h \
+ ../../pjlib-util/include/pjlib-util/config.h \
+ ../../pjlib/include/pj/ioqueue.h ../../pjlib/include/pj/sock_qos.h \
+ ../../pjnath/include/pjnath/turn_sock.h \
+ ../../pjnath/include/pjnath/turn_session.h \
+ ../include/pjmedia/transport_loop.h ../include/pjmedia/transport_srtp.h \
+ ../include/pjmedia/transport_udp.h ../include/pjmedia/vid_port.h \
+ ../include/pjmedia-videodev/videodev.h ../include/pjmedia/videodev.h \
+ ../include/pjmedia-videodev/config.h ../include/pjmedia-videodev/errno.h \
+ ../include/pjmedia/vid_stream.h ../include/pjmedia/vid_tee.h \
+ ../include/pjmedia/wav_playlist.h ../include/pjmedia/wav_port.h \
+ ../include/pjmedia/wave.h ../include/pjmedia/wsola.h \
+ ../../pjlib/include/pjlib.h ../../pjlib/include/pj/activesock.h \
+ ../../pjlib/include/pj/addr_resolv.h ../../pjlib/include/pj/array.h \
+ ../../pjlib/include/pj/ctype.h ../../pjlib/include/pj/compat/ctype.h \
+ /usr/include/ctype.h ../../pjlib/include/pj/except.h \
+ ../../pjlib/include/pj/compat/setjmp.h /usr/include/setjmp.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp2.h \
+ ../../pjlib/include/pj/log.h ../../pjlib/include/pj/fifobuf.h \
+ ../../pjlib/include/pj/file_access.h ../../pjlib/include/pj/file_io.h \
+ ../../pjlib/include/pj/guid.h ../../pjlib/include/pj/hash.h \
+ ../../pjlib/include/pj/ip_helper.h ../../pjlib/include/pj/pool_buf.h \
+ ../../pjlib/include/pj/rand.h ../../pjlib/include/pj/rbtree.h \
+ ../../pjlib/include/pj/sock_select.h ../../pjlib/include/pj/ssl_sock.h \
+ ../../pjlib/include/pj/unicode.h
+output/pjmedia-test-x86_64-unknown-linux-gnu/mips_test.o: ../src/test/mips_test.c /usr/include/stdc-predef.h \
+ ../src/test/test.h ../include/pjmedia.h ../include/pjmedia/alaw_ulaw.h \
+ ../include/pjmedia/types.h ../include/pjmedia/config.h \
+ ../../pjlib/include/pj/config.h ../../pjlib/include/pj/compat/cc_gcc.h \
+ ../../pjlib/include/pj/compat/os_auto.h \
+ ../../pjlib/include/pj/compat/m_auto.h \
+ ../../pjlib/include/pj/compat/size_t.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ ../../pjlib/include/pj/config_site.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ ../include/pjmedia/config_auto.h ../../pjlib/include/pj/sock.h \
+ ../../pjlib/include/pj/types.h ../include/pjmedia/avi_stream.h \
+ ../include/pjmedia/port.h ../include/pjmedia/clock.h \
+ ../include/pjmedia/event.h ../include/pjmedia/format.h \
+ ../include/pjmedia/signatures.h ../include/pjmedia/frame.h \
+ ../../pjlib/include/pj/string.h ../../pjlib/include/pj/compat/string.h \
+ /usr/include/string.h /usr/include/xlocale.h \
+ /usr/include/x86_64-linux-gnu/bits/string.h \
+ /usr/include/x86_64-linux-gnu/bits/string2.h /usr/include/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap-16.h /usr/include/stdlib.h \
+ /usr/include/x86_64-linux-gnu/bits/string3.h /usr/include/stdio.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+ /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+ /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+ /usr/include/x86_64-linux-gnu/sys/types.h /usr/include/time.h \
+ /usr/include/x86_64-linux-gnu/sys/select.h \
+ /usr/include/x86_64-linux-gnu/bits/select.h \
+ /usr/include/x86_64-linux-gnu/bits/sigset.h \
+ /usr/include/x86_64-linux-gnu/bits/time.h \
+ /usr/include/x86_64-linux-gnu/bits/select2.h \
+ /usr/include/x86_64-linux-gnu/sys/sysmacros.h \
+ /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h /usr/include/alloca.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+ ../../pjlib/include/pj/assert.h ../../pjlib/include/pj/compat/assert.h \
+ /usr/include/assert.h ../../pjlib/include/pj/os.h \
+ ../include/pjmedia/bidirectional.h ../include/pjmedia/circbuf.h \
+ ../../pjlib/include/pj/errno.h ../../pjlib/include/pj/compat/errno.h \
+ ../../pjlib/include/pj/pool.h ../../pjlib/include/pj/list.h \
+ ../include/pjmedia/codec.h ../include/pjmedia/conference.h \
+ ../include/pjmedia/converter.h ../include/pjmedia/delaybuf.h \
+ ../include/pjmedia/echo.h ../include/pjmedia/echo_port.h \
+ ../include/pjmedia/endpoint.h ../include/pjmedia/sdp.h \
+ ../include/pjmedia/transport.h ../include/pjmedia/errno.h \
+ ../include/pjmedia-audiodev/audiodev.h ../include/pjmedia/audiodev.h \
+ ../include/pjmedia-audiodev/config.h ../include/pjmedia-audiodev/errno.h \
+ ../include/pjmedia/g711.h ../include/pjmedia-codec/types.h \
+ ../include/pjmedia-codec/config.h ../include/pjmedia-codec/config_auto.h \
+ ../include/pjmedia/jbuf.h ../include/pjmedia/master_port.h \
+ ../include/pjmedia/mem_port.h ../include/pjmedia/null_port.h \
+ ../include/pjmedia/plc.h ../include/pjmedia/resample.h \
+ ../include/pjmedia/rtcp.h ../include/pjmedia/rtcp_xr.h \
+ ../../pjlib/include/pj/math.h \
+ ../../pjlib/include/pj/compat/high_precision.h /usr/include/math.h \
+ /usr/include/x86_64-linux-gnu/bits/math-vector.h \
+ /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_val.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_valf.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_vall.h \
+ /usr/include/x86_64-linux-gnu/bits/inf.h \
+ /usr/include/x86_64-linux-gnu/bits/nan.h \
+ /usr/include/x86_64-linux-gnu/bits/mathdef.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
+ /usr/include/x86_64-linux-gnu/bits/mathinline.h ../include/pjmedia/rtp.h \
+ ../include/pjmedia/sdp_neg.h ../include/pjmedia/silencedet.h \
+ ../include/pjmedia/sound.h ../include/pjmedia/sound_port.h \
+ ../include/pjmedia/splitcomb.h ../include/pjmedia/stereo.h \
+ ../include/pjmedia/stream.h ../include/pjmedia/vid_codec.h \
+ ../include/pjmedia/stream_common.h ../include/pjmedia/tonegen.h \
+ ../include/pjmedia/transport_adapter_sample.h \
+ ../include/pjmedia/transport_ice.h \
+ ../../pjnath/include/pjnath/ice_strans.h \
+ ../../pjnath/include/pjnath/ice_session.h \
+ ../../pjnath/include/pjnath/types.h ../../pjnath/include/pjnath/config.h \
+ ../../pjnath/include/pjnath/stun_session.h \
+ ../../pjnath/include/pjnath/stun_msg.h \
+ ../../pjnath/include/pjnath/stun_auth.h \
+ ../../pjnath/include/pjnath/stun_config.h \
+ ../../pjnath/include/pjnath/stun_transaction.h \
+ ../../pjlib/include/pj/lock.h ../../pjlib/include/pj/timer.h \
+ ../../pjnath/include/pjnath/errno.h \
+ ../../pjnath/include/pjnath/stun_sock.h \
+ ../../pjlib-util/include/pjlib-util/resolver.h \
+ ../../pjlib-util/include/pjlib-util/dns.h \
+ ../../pjlib-util/include/pjlib-util/types.h \
+ ../../pjlib-util/include/pjlib-util/config.h \
+ ../../pjlib/include/pj/ioqueue.h ../../pjlib/include/pj/sock_qos.h \
+ ../../pjnath/include/pjnath/turn_sock.h \
+ ../../pjnath/include/pjnath/turn_session.h \
+ ../include/pjmedia/transport_loop.h ../include/pjmedia/transport_srtp.h \
+ ../include/pjmedia/transport_udp.h ../include/pjmedia/vid_port.h \
+ ../include/pjmedia-videodev/videodev.h ../include/pjmedia/videodev.h \
+ ../include/pjmedia-videodev/config.h ../include/pjmedia-videodev/errno.h \
+ ../include/pjmedia/vid_stream.h ../include/pjmedia/vid_tee.h \
+ ../include/pjmedia/wav_playlist.h ../include/pjmedia/wav_port.h \
+ ../include/pjmedia/wave.h ../include/pjmedia/wsola.h \
+ ../../pjlib/include/pjlib.h ../../pjlib/include/pj/activesock.h \
+ ../../pjlib/include/pj/addr_resolv.h ../../pjlib/include/pj/array.h \
+ ../../pjlib/include/pj/ctype.h ../../pjlib/include/pj/compat/ctype.h \
+ /usr/include/ctype.h ../../pjlib/include/pj/except.h \
+ ../../pjlib/include/pj/compat/setjmp.h /usr/include/setjmp.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp2.h \
+ ../../pjlib/include/pj/log.h ../../pjlib/include/pj/fifobuf.h \
+ ../../pjlib/include/pj/file_access.h ../../pjlib/include/pj/file_io.h \
+ ../../pjlib/include/pj/guid.h ../../pjlib/include/pj/hash.h \
+ ../../pjlib/include/pj/ip_helper.h ../../pjlib/include/pj/pool_buf.h \
+ ../../pjlib/include/pj/rand.h ../../pjlib/include/pj/rbtree.h \
+ ../../pjlib/include/pj/sock_select.h ../../pjlib/include/pj/ssl_sock.h \
+ ../../pjlib/include/pj/unicode.h ../include/pjmedia-codec.h \
+ ../include/pjmedia-codec/audio_codecs.h \
+ ../include/pjmedia-codec/passthrough.h ../include/pjmedia-codec/l16.h \
+ ../include/pjmedia-codec/ffmpeg_vid_codecs.h \
+ ../include/pjmedia-codec/gsm.h ../include/pjmedia-codec/speex.h \
+ ../include/pjmedia-codec/ilbc.h ../include/pjmedia-codec/g722.h \
+ ../include/pjmedia-codec/g7221.h ../include/pjmedia-codec/ipp_codecs.h \
+ ../include/pjmedia-codec/opencore_amr.h \
+ ../include/pjmedia-codec/vid_toolbox.h \
+ ../include/pjmedia-codec/openh264.h ../include/pjmedia-codec/silk.h \
+ ../include/pjmedia-codec/opus.h ../include/pjmedia-codec/bcg729.h
+output/pjmedia-test-x86_64-unknown-linux-gnu/vid_codec_test.o: ../src/test/vid_codec_test.c /usr/include/stdc-predef.h \
+ ../src/test/test.h ../include/pjmedia.h ../include/pjmedia/alaw_ulaw.h \
+ ../include/pjmedia/types.h ../include/pjmedia/config.h \
+ ../../pjlib/include/pj/config.h ../../pjlib/include/pj/compat/cc_gcc.h \
+ ../../pjlib/include/pj/compat/os_auto.h \
+ ../../pjlib/include/pj/compat/m_auto.h \
+ ../../pjlib/include/pj/compat/size_t.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ ../../pjlib/include/pj/config_site.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ ../include/pjmedia/config_auto.h ../../pjlib/include/pj/sock.h \
+ ../../pjlib/include/pj/types.h ../include/pjmedia/avi_stream.h \
+ ../include/pjmedia/port.h ../include/pjmedia/clock.h \
+ ../include/pjmedia/event.h ../include/pjmedia/format.h \
+ ../include/pjmedia/signatures.h ../include/pjmedia/frame.h \
+ ../../pjlib/include/pj/string.h ../../pjlib/include/pj/compat/string.h \
+ /usr/include/string.h /usr/include/xlocale.h \
+ /usr/include/x86_64-linux-gnu/bits/string.h \
+ /usr/include/x86_64-linux-gnu/bits/string2.h /usr/include/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap-16.h /usr/include/stdlib.h \
+ /usr/include/x86_64-linux-gnu/bits/string3.h /usr/include/stdio.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+ /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+ /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+ /usr/include/x86_64-linux-gnu/sys/types.h /usr/include/time.h \
+ /usr/include/x86_64-linux-gnu/sys/select.h \
+ /usr/include/x86_64-linux-gnu/bits/select.h \
+ /usr/include/x86_64-linux-gnu/bits/sigset.h \
+ /usr/include/x86_64-linux-gnu/bits/time.h \
+ /usr/include/x86_64-linux-gnu/bits/select2.h \
+ /usr/include/x86_64-linux-gnu/sys/sysmacros.h \
+ /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h /usr/include/alloca.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+ ../../pjlib/include/pj/assert.h ../../pjlib/include/pj/compat/assert.h \
+ /usr/include/assert.h ../../pjlib/include/pj/os.h \
+ ../include/pjmedia/bidirectional.h ../include/pjmedia/circbuf.h \
+ ../../pjlib/include/pj/errno.h ../../pjlib/include/pj/compat/errno.h \
+ ../../pjlib/include/pj/pool.h ../../pjlib/include/pj/list.h \
+ ../include/pjmedia/codec.h ../include/pjmedia/conference.h \
+ ../include/pjmedia/converter.h ../include/pjmedia/delaybuf.h \
+ ../include/pjmedia/echo.h ../include/pjmedia/echo_port.h \
+ ../include/pjmedia/endpoint.h ../include/pjmedia/sdp.h \
+ ../include/pjmedia/transport.h ../include/pjmedia/errno.h \
+ ../include/pjmedia-audiodev/audiodev.h ../include/pjmedia/audiodev.h \
+ ../include/pjmedia-audiodev/config.h ../include/pjmedia-audiodev/errno.h \
+ ../include/pjmedia/g711.h ../include/pjmedia-codec/types.h \
+ ../include/pjmedia-codec/config.h ../include/pjmedia-codec/config_auto.h \
+ ../include/pjmedia/jbuf.h ../include/pjmedia/master_port.h \
+ ../include/pjmedia/mem_port.h ../include/pjmedia/null_port.h \
+ ../include/pjmedia/plc.h ../include/pjmedia/resample.h \
+ ../include/pjmedia/rtcp.h ../include/pjmedia/rtcp_xr.h \
+ ../../pjlib/include/pj/math.h \
+ ../../pjlib/include/pj/compat/high_precision.h /usr/include/math.h \
+ /usr/include/x86_64-linux-gnu/bits/math-vector.h \
+ /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_val.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_valf.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_vall.h \
+ /usr/include/x86_64-linux-gnu/bits/inf.h \
+ /usr/include/x86_64-linux-gnu/bits/nan.h \
+ /usr/include/x86_64-linux-gnu/bits/mathdef.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
+ /usr/include/x86_64-linux-gnu/bits/mathinline.h ../include/pjmedia/rtp.h \
+ ../include/pjmedia/sdp_neg.h ../include/pjmedia/silencedet.h \
+ ../include/pjmedia/sound.h ../include/pjmedia/sound_port.h \
+ ../include/pjmedia/splitcomb.h ../include/pjmedia/stereo.h \
+ ../include/pjmedia/stream.h ../include/pjmedia/vid_codec.h \
+ ../include/pjmedia/stream_common.h ../include/pjmedia/tonegen.h \
+ ../include/pjmedia/transport_adapter_sample.h \
+ ../include/pjmedia/transport_ice.h \
+ ../../pjnath/include/pjnath/ice_strans.h \
+ ../../pjnath/include/pjnath/ice_session.h \
+ ../../pjnath/include/pjnath/types.h ../../pjnath/include/pjnath/config.h \
+ ../../pjnath/include/pjnath/stun_session.h \
+ ../../pjnath/include/pjnath/stun_msg.h \
+ ../../pjnath/include/pjnath/stun_auth.h \
+ ../../pjnath/include/pjnath/stun_config.h \
+ ../../pjnath/include/pjnath/stun_transaction.h \
+ ../../pjlib/include/pj/lock.h ../../pjlib/include/pj/timer.h \
+ ../../pjnath/include/pjnath/errno.h \
+ ../../pjnath/include/pjnath/stun_sock.h \
+ ../../pjlib-util/include/pjlib-util/resolver.h \
+ ../../pjlib-util/include/pjlib-util/dns.h \
+ ../../pjlib-util/include/pjlib-util/types.h \
+ ../../pjlib-util/include/pjlib-util/config.h \
+ ../../pjlib/include/pj/ioqueue.h ../../pjlib/include/pj/sock_qos.h \
+ ../../pjnath/include/pjnath/turn_sock.h \
+ ../../pjnath/include/pjnath/turn_session.h \
+ ../include/pjmedia/transport_loop.h ../include/pjmedia/transport_srtp.h \
+ ../include/pjmedia/transport_udp.h ../include/pjmedia/vid_port.h \
+ ../include/pjmedia-videodev/videodev.h ../include/pjmedia/videodev.h \
+ ../include/pjmedia-videodev/config.h ../include/pjmedia-videodev/errno.h \
+ ../include/pjmedia/vid_stream.h ../include/pjmedia/vid_tee.h \
+ ../include/pjmedia/wav_playlist.h ../include/pjmedia/wav_port.h \
+ ../include/pjmedia/wave.h ../include/pjmedia/wsola.h \
+ ../../pjlib/include/pjlib.h ../../pjlib/include/pj/activesock.h \
+ ../../pjlib/include/pj/addr_resolv.h ../../pjlib/include/pj/array.h \
+ ../../pjlib/include/pj/ctype.h ../../pjlib/include/pj/compat/ctype.h \
+ /usr/include/ctype.h ../../pjlib/include/pj/except.h \
+ ../../pjlib/include/pj/compat/setjmp.h /usr/include/setjmp.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp2.h \
+ ../../pjlib/include/pj/log.h ../../pjlib/include/pj/fifobuf.h \
+ ../../pjlib/include/pj/file_access.h ../../pjlib/include/pj/file_io.h \
+ ../../pjlib/include/pj/guid.h ../../pjlib/include/pj/hash.h \
+ ../../pjlib/include/pj/ip_helper.h ../../pjlib/include/pj/pool_buf.h \
+ ../../pjlib/include/pj/rand.h ../../pjlib/include/pj/rbtree.h \
+ ../../pjlib/include/pj/sock_select.h ../../pjlib/include/pj/ssl_sock.h \
+ ../../pjlib/include/pj/unicode.h ../include/pjmedia-codec.h \
+ ../include/pjmedia-codec/audio_codecs.h \
+ ../include/pjmedia-codec/passthrough.h ../include/pjmedia-codec/l16.h \
+ ../include/pjmedia-codec/ffmpeg_vid_codecs.h \
+ ../include/pjmedia-codec/gsm.h ../include/pjmedia-codec/speex.h \
+ ../include/pjmedia-codec/ilbc.h ../include/pjmedia-codec/g722.h \
+ ../include/pjmedia-codec/g7221.h ../include/pjmedia-codec/ipp_codecs.h \
+ ../include/pjmedia-codec/opencore_amr.h \
+ ../include/pjmedia-codec/vid_toolbox.h \
+ ../include/pjmedia-codec/openh264.h ../include/pjmedia-codec/silk.h \
+ ../include/pjmedia-codec/opus.h ../include/pjmedia-codec/bcg729.h
+output/pjmedia-test-x86_64-unknown-linux-gnu/vid_dev_test.o: ../src/test/vid_dev_test.c /usr/include/stdc-predef.h \
+ ../src/test/test.h ../include/pjmedia.h ../include/pjmedia/alaw_ulaw.h \
+ ../include/pjmedia/types.h ../include/pjmedia/config.h \
+ ../../pjlib/include/pj/config.h ../../pjlib/include/pj/compat/cc_gcc.h \
+ ../../pjlib/include/pj/compat/os_auto.h \
+ ../../pjlib/include/pj/compat/m_auto.h \
+ ../../pjlib/include/pj/compat/size_t.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ ../../pjlib/include/pj/config_site.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ ../include/pjmedia/config_auto.h ../../pjlib/include/pj/sock.h \
+ ../../pjlib/include/pj/types.h ../include/pjmedia/avi_stream.h \
+ ../include/pjmedia/port.h ../include/pjmedia/clock.h \
+ ../include/pjmedia/event.h ../include/pjmedia/format.h \
+ ../include/pjmedia/signatures.h ../include/pjmedia/frame.h \
+ ../../pjlib/include/pj/string.h ../../pjlib/include/pj/compat/string.h \
+ /usr/include/string.h /usr/include/xlocale.h \
+ /usr/include/x86_64-linux-gnu/bits/string.h \
+ /usr/include/x86_64-linux-gnu/bits/string2.h /usr/include/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap-16.h /usr/include/stdlib.h \
+ /usr/include/x86_64-linux-gnu/bits/string3.h /usr/include/stdio.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+ /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+ /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+ /usr/include/x86_64-linux-gnu/sys/types.h /usr/include/time.h \
+ /usr/include/x86_64-linux-gnu/sys/select.h \
+ /usr/include/x86_64-linux-gnu/bits/select.h \
+ /usr/include/x86_64-linux-gnu/bits/sigset.h \
+ /usr/include/x86_64-linux-gnu/bits/time.h \
+ /usr/include/x86_64-linux-gnu/bits/select2.h \
+ /usr/include/x86_64-linux-gnu/sys/sysmacros.h \
+ /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h /usr/include/alloca.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+ ../../pjlib/include/pj/assert.h ../../pjlib/include/pj/compat/assert.h \
+ /usr/include/assert.h ../../pjlib/include/pj/os.h \
+ ../include/pjmedia/bidirectional.h ../include/pjmedia/circbuf.h \
+ ../../pjlib/include/pj/errno.h ../../pjlib/include/pj/compat/errno.h \
+ ../../pjlib/include/pj/pool.h ../../pjlib/include/pj/list.h \
+ ../include/pjmedia/codec.h ../include/pjmedia/conference.h \
+ ../include/pjmedia/converter.h ../include/pjmedia/delaybuf.h \
+ ../include/pjmedia/echo.h ../include/pjmedia/echo_port.h \
+ ../include/pjmedia/endpoint.h ../include/pjmedia/sdp.h \
+ ../include/pjmedia/transport.h ../include/pjmedia/errno.h \
+ ../include/pjmedia-audiodev/audiodev.h ../include/pjmedia/audiodev.h \
+ ../include/pjmedia-audiodev/config.h ../include/pjmedia-audiodev/errno.h \
+ ../include/pjmedia/g711.h ../include/pjmedia-codec/types.h \
+ ../include/pjmedia-codec/config.h ../include/pjmedia-codec/config_auto.h \
+ ../include/pjmedia/jbuf.h ../include/pjmedia/master_port.h \
+ ../include/pjmedia/mem_port.h ../include/pjmedia/null_port.h \
+ ../include/pjmedia/plc.h ../include/pjmedia/resample.h \
+ ../include/pjmedia/rtcp.h ../include/pjmedia/rtcp_xr.h \
+ ../../pjlib/include/pj/math.h \
+ ../../pjlib/include/pj/compat/high_precision.h /usr/include/math.h \
+ /usr/include/x86_64-linux-gnu/bits/math-vector.h \
+ /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_val.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_valf.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_vall.h \
+ /usr/include/x86_64-linux-gnu/bits/inf.h \
+ /usr/include/x86_64-linux-gnu/bits/nan.h \
+ /usr/include/x86_64-linux-gnu/bits/mathdef.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
+ /usr/include/x86_64-linux-gnu/bits/mathinline.h ../include/pjmedia/rtp.h \
+ ../include/pjmedia/sdp_neg.h ../include/pjmedia/silencedet.h \
+ ../include/pjmedia/sound.h ../include/pjmedia/sound_port.h \
+ ../include/pjmedia/splitcomb.h ../include/pjmedia/stereo.h \
+ ../include/pjmedia/stream.h ../include/pjmedia/vid_codec.h \
+ ../include/pjmedia/stream_common.h ../include/pjmedia/tonegen.h \
+ ../include/pjmedia/transport_adapter_sample.h \
+ ../include/pjmedia/transport_ice.h \
+ ../../pjnath/include/pjnath/ice_strans.h \
+ ../../pjnath/include/pjnath/ice_session.h \
+ ../../pjnath/include/pjnath/types.h ../../pjnath/include/pjnath/config.h \
+ ../../pjnath/include/pjnath/stun_session.h \
+ ../../pjnath/include/pjnath/stun_msg.h \
+ ../../pjnath/include/pjnath/stun_auth.h \
+ ../../pjnath/include/pjnath/stun_config.h \
+ ../../pjnath/include/pjnath/stun_transaction.h \
+ ../../pjlib/include/pj/lock.h ../../pjlib/include/pj/timer.h \
+ ../../pjnath/include/pjnath/errno.h \
+ ../../pjnath/include/pjnath/stun_sock.h \
+ ../../pjlib-util/include/pjlib-util/resolver.h \
+ ../../pjlib-util/include/pjlib-util/dns.h \
+ ../../pjlib-util/include/pjlib-util/types.h \
+ ../../pjlib-util/include/pjlib-util/config.h \
+ ../../pjlib/include/pj/ioqueue.h ../../pjlib/include/pj/sock_qos.h \
+ ../../pjnath/include/pjnath/turn_sock.h \
+ ../../pjnath/include/pjnath/turn_session.h \
+ ../include/pjmedia/transport_loop.h ../include/pjmedia/transport_srtp.h \
+ ../include/pjmedia/transport_udp.h ../include/pjmedia/vid_port.h \
+ ../include/pjmedia-videodev/videodev.h ../include/pjmedia/videodev.h \
+ ../include/pjmedia-videodev/config.h ../include/pjmedia-videodev/errno.h \
+ ../include/pjmedia/vid_stream.h ../include/pjmedia/vid_tee.h \
+ ../include/pjmedia/wav_playlist.h ../include/pjmedia/wav_port.h \
+ ../include/pjmedia/wave.h ../include/pjmedia/wsola.h \
+ ../../pjlib/include/pjlib.h ../../pjlib/include/pj/activesock.h \
+ ../../pjlib/include/pj/addr_resolv.h ../../pjlib/include/pj/array.h \
+ ../../pjlib/include/pj/ctype.h ../../pjlib/include/pj/compat/ctype.h \
+ /usr/include/ctype.h ../../pjlib/include/pj/except.h \
+ ../../pjlib/include/pj/compat/setjmp.h /usr/include/setjmp.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp2.h \
+ ../../pjlib/include/pj/log.h ../../pjlib/include/pj/fifobuf.h \
+ ../../pjlib/include/pj/file_access.h ../../pjlib/include/pj/file_io.h \
+ ../../pjlib/include/pj/guid.h ../../pjlib/include/pj/hash.h \
+ ../../pjlib/include/pj/ip_helper.h ../../pjlib/include/pj/pool_buf.h \
+ ../../pjlib/include/pj/rand.h ../../pjlib/include/pj/rbtree.h \
+ ../../pjlib/include/pj/sock_select.h ../../pjlib/include/pj/ssl_sock.h \
+ ../../pjlib/include/pj/unicode.h \
+ ../include/pjmedia-codec/ffmpeg_vid_codecs.h \
+ ../include/pjmedia_videodev.h ../include/pjmedia-videodev/videodev_imp.h \
+ ../include/pjmedia-videodev/avi_dev.h
+output/pjmedia-test-x86_64-unknown-linux-gnu/vid_port_test.o: ../src/test/vid_port_test.c /usr/include/stdc-predef.h \
+ ../src/test/test.h ../include/pjmedia.h ../include/pjmedia/alaw_ulaw.h \
+ ../include/pjmedia/types.h ../include/pjmedia/config.h \
+ ../../pjlib/include/pj/config.h ../../pjlib/include/pj/compat/cc_gcc.h \
+ ../../pjlib/include/pj/compat/os_auto.h \
+ ../../pjlib/include/pj/compat/m_auto.h \
+ ../../pjlib/include/pj/compat/size_t.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ ../../pjlib/include/pj/config_site.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ ../include/pjmedia/config_auto.h ../../pjlib/include/pj/sock.h \
+ ../../pjlib/include/pj/types.h ../include/pjmedia/avi_stream.h \
+ ../include/pjmedia/port.h ../include/pjmedia/clock.h \
+ ../include/pjmedia/event.h ../include/pjmedia/format.h \
+ ../include/pjmedia/signatures.h ../include/pjmedia/frame.h \
+ ../../pjlib/include/pj/string.h ../../pjlib/include/pj/compat/string.h \
+ /usr/include/string.h /usr/include/xlocale.h \
+ /usr/include/x86_64-linux-gnu/bits/string.h \
+ /usr/include/x86_64-linux-gnu/bits/string2.h /usr/include/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap-16.h /usr/include/stdlib.h \
+ /usr/include/x86_64-linux-gnu/bits/string3.h /usr/include/stdio.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+ /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+ /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+ /usr/include/x86_64-linux-gnu/sys/types.h /usr/include/time.h \
+ /usr/include/x86_64-linux-gnu/sys/select.h \
+ /usr/include/x86_64-linux-gnu/bits/select.h \
+ /usr/include/x86_64-linux-gnu/bits/sigset.h \
+ /usr/include/x86_64-linux-gnu/bits/time.h \
+ /usr/include/x86_64-linux-gnu/bits/select2.h \
+ /usr/include/x86_64-linux-gnu/sys/sysmacros.h \
+ /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h /usr/include/alloca.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+ ../../pjlib/include/pj/assert.h ../../pjlib/include/pj/compat/assert.h \
+ /usr/include/assert.h ../../pjlib/include/pj/os.h \
+ ../include/pjmedia/bidirectional.h ../include/pjmedia/circbuf.h \
+ ../../pjlib/include/pj/errno.h ../../pjlib/include/pj/compat/errno.h \
+ ../../pjlib/include/pj/pool.h ../../pjlib/include/pj/list.h \
+ ../include/pjmedia/codec.h ../include/pjmedia/conference.h \
+ ../include/pjmedia/converter.h ../include/pjmedia/delaybuf.h \
+ ../include/pjmedia/echo.h ../include/pjmedia/echo_port.h \
+ ../include/pjmedia/endpoint.h ../include/pjmedia/sdp.h \
+ ../include/pjmedia/transport.h ../include/pjmedia/errno.h \
+ ../include/pjmedia-audiodev/audiodev.h ../include/pjmedia/audiodev.h \
+ ../include/pjmedia-audiodev/config.h ../include/pjmedia-audiodev/errno.h \
+ ../include/pjmedia/g711.h ../include/pjmedia-codec/types.h \
+ ../include/pjmedia-codec/config.h ../include/pjmedia-codec/config_auto.h \
+ ../include/pjmedia/jbuf.h ../include/pjmedia/master_port.h \
+ ../include/pjmedia/mem_port.h ../include/pjmedia/null_port.h \
+ ../include/pjmedia/plc.h ../include/pjmedia/resample.h \
+ ../include/pjmedia/rtcp.h ../include/pjmedia/rtcp_xr.h \
+ ../../pjlib/include/pj/math.h \
+ ../../pjlib/include/pj/compat/high_precision.h /usr/include/math.h \
+ /usr/include/x86_64-linux-gnu/bits/math-vector.h \
+ /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_val.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_valf.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_vall.h \
+ /usr/include/x86_64-linux-gnu/bits/inf.h \
+ /usr/include/x86_64-linux-gnu/bits/nan.h \
+ /usr/include/x86_64-linux-gnu/bits/mathdef.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
+ /usr/include/x86_64-linux-gnu/bits/mathinline.h ../include/pjmedia/rtp.h \
+ ../include/pjmedia/sdp_neg.h ../include/pjmedia/silencedet.h \
+ ../include/pjmedia/sound.h ../include/pjmedia/sound_port.h \
+ ../include/pjmedia/splitcomb.h ../include/pjmedia/stereo.h \
+ ../include/pjmedia/stream.h ../include/pjmedia/vid_codec.h \
+ ../include/pjmedia/stream_common.h ../include/pjmedia/tonegen.h \
+ ../include/pjmedia/transport_adapter_sample.h \
+ ../include/pjmedia/transport_ice.h \
+ ../../pjnath/include/pjnath/ice_strans.h \
+ ../../pjnath/include/pjnath/ice_session.h \
+ ../../pjnath/include/pjnath/types.h ../../pjnath/include/pjnath/config.h \
+ ../../pjnath/include/pjnath/stun_session.h \
+ ../../pjnath/include/pjnath/stun_msg.h \
+ ../../pjnath/include/pjnath/stun_auth.h \
+ ../../pjnath/include/pjnath/stun_config.h \
+ ../../pjnath/include/pjnath/stun_transaction.h \
+ ../../pjlib/include/pj/lock.h ../../pjlib/include/pj/timer.h \
+ ../../pjnath/include/pjnath/errno.h \
+ ../../pjnath/include/pjnath/stun_sock.h \
+ ../../pjlib-util/include/pjlib-util/resolver.h \
+ ../../pjlib-util/include/pjlib-util/dns.h \
+ ../../pjlib-util/include/pjlib-util/types.h \
+ ../../pjlib-util/include/pjlib-util/config.h \
+ ../../pjlib/include/pj/ioqueue.h ../../pjlib/include/pj/sock_qos.h \
+ ../../pjnath/include/pjnath/turn_sock.h \
+ ../../pjnath/include/pjnath/turn_session.h \
+ ../include/pjmedia/transport_loop.h ../include/pjmedia/transport_srtp.h \
+ ../include/pjmedia/transport_udp.h ../include/pjmedia/vid_port.h \
+ ../include/pjmedia-videodev/videodev.h ../include/pjmedia/videodev.h \
+ ../include/pjmedia-videodev/config.h ../include/pjmedia-videodev/errno.h \
+ ../include/pjmedia/vid_stream.h ../include/pjmedia/vid_tee.h \
+ ../include/pjmedia/wav_playlist.h ../include/pjmedia/wav_port.h \
+ ../include/pjmedia/wave.h ../include/pjmedia/wsola.h \
+ ../../pjlib/include/pjlib.h ../../pjlib/include/pj/activesock.h \
+ ../../pjlib/include/pj/addr_resolv.h ../../pjlib/include/pj/array.h \
+ ../../pjlib/include/pj/ctype.h ../../pjlib/include/pj/compat/ctype.h \
+ /usr/include/ctype.h ../../pjlib/include/pj/except.h \
+ ../../pjlib/include/pj/compat/setjmp.h /usr/include/setjmp.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp2.h \
+ ../../pjlib/include/pj/log.h ../../pjlib/include/pj/fifobuf.h \
+ ../../pjlib/include/pj/file_access.h ../../pjlib/include/pj/file_io.h \
+ ../../pjlib/include/pj/guid.h ../../pjlib/include/pj/hash.h \
+ ../../pjlib/include/pj/ip_helper.h ../../pjlib/include/pj/pool_buf.h \
+ ../../pjlib/include/pj/rand.h ../../pjlib/include/pj/rbtree.h \
+ ../../pjlib/include/pj/sock_select.h ../../pjlib/include/pj/ssl_sock.h \
+ ../../pjlib/include/pj/unicode.h \
+ ../include/pjmedia-codec/ffmpeg_vid_codecs.h \
+ ../include/pjmedia_videodev.h ../include/pjmedia-videodev/videodev_imp.h \
+ ../include/pjmedia-videodev/avi_dev.h
+output/pjmedia-test-x86_64-unknown-linux-gnu/rtp_test.o: ../src/test/rtp_test.c /usr/include/stdc-predef.h \
+ ../include/pjmedia/rtp.h ../include/pjmedia/types.h \
+ ../include/pjmedia/config.h ../../pjlib/include/pj/config.h \
+ ../../pjlib/include/pj/compat/cc_gcc.h \
+ ../../pjlib/include/pj/compat/os_auto.h \
+ ../../pjlib/include/pj/compat/m_auto.h \
+ ../../pjlib/include/pj/compat/size_t.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ ../../pjlib/include/pj/config_site.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ ../include/pjmedia/config_auto.h ../../pjlib/include/pj/sock.h \
+ ../../pjlib/include/pj/types.h /usr/include/stdio.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio2.h
+output/pjmedia-test-x86_64-unknown-linux-gnu/test.o: ../src/test/test.c /usr/include/stdc-predef.h ../src/test/test.h \
+ ../include/pjmedia.h ../include/pjmedia/alaw_ulaw.h \
+ ../include/pjmedia/types.h ../include/pjmedia/config.h \
+ ../../pjlib/include/pj/config.h ../../pjlib/include/pj/compat/cc_gcc.h \
+ ../../pjlib/include/pj/compat/os_auto.h \
+ ../../pjlib/include/pj/compat/m_auto.h \
+ ../../pjlib/include/pj/compat/size_t.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ ../../pjlib/include/pj/config_site.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ ../include/pjmedia/config_auto.h ../../pjlib/include/pj/sock.h \
+ ../../pjlib/include/pj/types.h ../include/pjmedia/avi_stream.h \
+ ../include/pjmedia/port.h ../include/pjmedia/clock.h \
+ ../include/pjmedia/event.h ../include/pjmedia/format.h \
+ ../include/pjmedia/signatures.h ../include/pjmedia/frame.h \
+ ../../pjlib/include/pj/string.h ../../pjlib/include/pj/compat/string.h \
+ /usr/include/string.h /usr/include/xlocale.h \
+ /usr/include/x86_64-linux-gnu/bits/string.h \
+ /usr/include/x86_64-linux-gnu/bits/string2.h /usr/include/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap-16.h /usr/include/stdlib.h \
+ /usr/include/x86_64-linux-gnu/bits/string3.h /usr/include/stdio.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+ /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+ /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+ /usr/include/x86_64-linux-gnu/sys/types.h /usr/include/time.h \
+ /usr/include/x86_64-linux-gnu/sys/select.h \
+ /usr/include/x86_64-linux-gnu/bits/select.h \
+ /usr/include/x86_64-linux-gnu/bits/sigset.h \
+ /usr/include/x86_64-linux-gnu/bits/time.h \
+ /usr/include/x86_64-linux-gnu/bits/select2.h \
+ /usr/include/x86_64-linux-gnu/sys/sysmacros.h \
+ /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h /usr/include/alloca.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+ ../../pjlib/include/pj/assert.h ../../pjlib/include/pj/compat/assert.h \
+ /usr/include/assert.h ../../pjlib/include/pj/os.h \
+ ../include/pjmedia/bidirectional.h ../include/pjmedia/circbuf.h \
+ ../../pjlib/include/pj/errno.h ../../pjlib/include/pj/compat/errno.h \
+ ../../pjlib/include/pj/pool.h ../../pjlib/include/pj/list.h \
+ ../include/pjmedia/codec.h ../include/pjmedia/conference.h \
+ ../include/pjmedia/converter.h ../include/pjmedia/delaybuf.h \
+ ../include/pjmedia/echo.h ../include/pjmedia/echo_port.h \
+ ../include/pjmedia/endpoint.h ../include/pjmedia/sdp.h \
+ ../include/pjmedia/transport.h ../include/pjmedia/errno.h \
+ ../include/pjmedia-audiodev/audiodev.h ../include/pjmedia/audiodev.h \
+ ../include/pjmedia-audiodev/config.h ../include/pjmedia-audiodev/errno.h \
+ ../include/pjmedia/g711.h ../include/pjmedia-codec/types.h \
+ ../include/pjmedia-codec/config.h ../include/pjmedia-codec/config_auto.h \
+ ../include/pjmedia/jbuf.h ../include/pjmedia/master_port.h \
+ ../include/pjmedia/mem_port.h ../include/pjmedia/null_port.h \
+ ../include/pjmedia/plc.h ../include/pjmedia/resample.h \
+ ../include/pjmedia/rtcp.h ../include/pjmedia/rtcp_xr.h \
+ ../../pjlib/include/pj/math.h \
+ ../../pjlib/include/pj/compat/high_precision.h /usr/include/math.h \
+ /usr/include/x86_64-linux-gnu/bits/math-vector.h \
+ /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_val.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_valf.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_vall.h \
+ /usr/include/x86_64-linux-gnu/bits/inf.h \
+ /usr/include/x86_64-linux-gnu/bits/nan.h \
+ /usr/include/x86_64-linux-gnu/bits/mathdef.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
+ /usr/include/x86_64-linux-gnu/bits/mathinline.h ../include/pjmedia/rtp.h \
+ ../include/pjmedia/sdp_neg.h ../include/pjmedia/silencedet.h \
+ ../include/pjmedia/sound.h ../include/pjmedia/sound_port.h \
+ ../include/pjmedia/splitcomb.h ../include/pjmedia/stereo.h \
+ ../include/pjmedia/stream.h ../include/pjmedia/vid_codec.h \
+ ../include/pjmedia/stream_common.h ../include/pjmedia/tonegen.h \
+ ../include/pjmedia/transport_adapter_sample.h \
+ ../include/pjmedia/transport_ice.h \
+ ../../pjnath/include/pjnath/ice_strans.h \
+ ../../pjnath/include/pjnath/ice_session.h \
+ ../../pjnath/include/pjnath/types.h ../../pjnath/include/pjnath/config.h \
+ ../../pjnath/include/pjnath/stun_session.h \
+ ../../pjnath/include/pjnath/stun_msg.h \
+ ../../pjnath/include/pjnath/stun_auth.h \
+ ../../pjnath/include/pjnath/stun_config.h \
+ ../../pjnath/include/pjnath/stun_transaction.h \
+ ../../pjlib/include/pj/lock.h ../../pjlib/include/pj/timer.h \
+ ../../pjnath/include/pjnath/errno.h \
+ ../../pjnath/include/pjnath/stun_sock.h \
+ ../../pjlib-util/include/pjlib-util/resolver.h \
+ ../../pjlib-util/include/pjlib-util/dns.h \
+ ../../pjlib-util/include/pjlib-util/types.h \
+ ../../pjlib-util/include/pjlib-util/config.h \
+ ../../pjlib/include/pj/ioqueue.h ../../pjlib/include/pj/sock_qos.h \
+ ../../pjnath/include/pjnath/turn_sock.h \
+ ../../pjnath/include/pjnath/turn_session.h \
+ ../include/pjmedia/transport_loop.h ../include/pjmedia/transport_srtp.h \
+ ../include/pjmedia/transport_udp.h ../include/pjmedia/vid_port.h \
+ ../include/pjmedia-videodev/videodev.h ../include/pjmedia/videodev.h \
+ ../include/pjmedia-videodev/config.h ../include/pjmedia-videodev/errno.h \
+ ../include/pjmedia/vid_stream.h ../include/pjmedia/vid_tee.h \
+ ../include/pjmedia/wav_playlist.h ../include/pjmedia/wav_port.h \
+ ../include/pjmedia/wave.h ../include/pjmedia/wsola.h \
+ ../../pjlib/include/pjlib.h ../../pjlib/include/pj/activesock.h \
+ ../../pjlib/include/pj/addr_resolv.h ../../pjlib/include/pj/array.h \
+ ../../pjlib/include/pj/ctype.h ../../pjlib/include/pj/compat/ctype.h \
+ /usr/include/ctype.h ../../pjlib/include/pj/except.h \
+ ../../pjlib/include/pj/compat/setjmp.h /usr/include/setjmp.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp2.h \
+ ../../pjlib/include/pj/log.h ../../pjlib/include/pj/fifobuf.h \
+ ../../pjlib/include/pj/file_access.h ../../pjlib/include/pj/file_io.h \
+ ../../pjlib/include/pj/guid.h ../../pjlib/include/pj/hash.h \
+ ../../pjlib/include/pj/ip_helper.h ../../pjlib/include/pj/pool_buf.h \
+ ../../pjlib/include/pj/rand.h ../../pjlib/include/pj/rbtree.h \
+ ../../pjlib/include/pj/sock_select.h ../../pjlib/include/pj/ssl_sock.h \
+ ../../pjlib/include/pj/unicode.h
+output/pjmedia-test-x86_64-unknown-linux-gnu/sdp_neg_test.o: ../src/test/sdp_neg_test.c /usr/include/stdc-predef.h \
+ ../include/pjmedia/sdp.h ../include/pjmedia/types.h \
+ ../include/pjmedia/config.h ../../pjlib/include/pj/config.h \
+ ../../pjlib/include/pj/compat/cc_gcc.h \
+ ../../pjlib/include/pj/compat/os_auto.h \
+ ../../pjlib/include/pj/compat/m_auto.h \
+ ../../pjlib/include/pj/compat/size_t.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ ../../pjlib/include/pj/config_site.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ ../include/pjmedia/config_auto.h ../../pjlib/include/pj/sock.h \
+ ../../pjlib/include/pj/types.h ../include/pjmedia/sdp_neg.h \
+ ../src/test/test.h ../include/pjmedia.h ../include/pjmedia/alaw_ulaw.h \
+ ../include/pjmedia/avi_stream.h ../include/pjmedia/port.h \
+ ../include/pjmedia/clock.h ../include/pjmedia/event.h \
+ ../include/pjmedia/format.h ../include/pjmedia/signatures.h \
+ ../include/pjmedia/frame.h ../../pjlib/include/pj/string.h \
+ ../../pjlib/include/pj/compat/string.h /usr/include/string.h \
+ /usr/include/xlocale.h /usr/include/x86_64-linux-gnu/bits/string.h \
+ /usr/include/x86_64-linux-gnu/bits/string2.h /usr/include/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap-16.h /usr/include/stdlib.h \
+ /usr/include/x86_64-linux-gnu/bits/string3.h /usr/include/stdio.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+ /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+ /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+ /usr/include/x86_64-linux-gnu/sys/types.h /usr/include/time.h \
+ /usr/include/x86_64-linux-gnu/sys/select.h \
+ /usr/include/x86_64-linux-gnu/bits/select.h \
+ /usr/include/x86_64-linux-gnu/bits/sigset.h \
+ /usr/include/x86_64-linux-gnu/bits/time.h \
+ /usr/include/x86_64-linux-gnu/bits/select2.h \
+ /usr/include/x86_64-linux-gnu/sys/sysmacros.h \
+ /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h /usr/include/alloca.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+ ../../pjlib/include/pj/assert.h ../../pjlib/include/pj/compat/assert.h \
+ /usr/include/assert.h ../../pjlib/include/pj/os.h \
+ ../include/pjmedia/bidirectional.h ../include/pjmedia/circbuf.h \
+ ../../pjlib/include/pj/errno.h ../../pjlib/include/pj/compat/errno.h \
+ ../../pjlib/include/pj/pool.h ../../pjlib/include/pj/list.h \
+ ../include/pjmedia/codec.h ../include/pjmedia/conference.h \
+ ../include/pjmedia/converter.h ../include/pjmedia/delaybuf.h \
+ ../include/pjmedia/echo.h ../include/pjmedia/echo_port.h \
+ ../include/pjmedia/endpoint.h ../include/pjmedia/transport.h \
+ ../include/pjmedia/errno.h ../include/pjmedia-audiodev/audiodev.h \
+ ../include/pjmedia/audiodev.h ../include/pjmedia-audiodev/config.h \
+ ../include/pjmedia-audiodev/errno.h ../include/pjmedia/g711.h \
+ ../include/pjmedia-codec/types.h ../include/pjmedia-codec/config.h \
+ ../include/pjmedia-codec/config_auto.h ../include/pjmedia/jbuf.h \
+ ../include/pjmedia/master_port.h ../include/pjmedia/mem_port.h \
+ ../include/pjmedia/null_port.h ../include/pjmedia/plc.h \
+ ../include/pjmedia/resample.h ../include/pjmedia/rtcp.h \
+ ../include/pjmedia/rtcp_xr.h ../../pjlib/include/pj/math.h \
+ ../../pjlib/include/pj/compat/high_precision.h /usr/include/math.h \
+ /usr/include/x86_64-linux-gnu/bits/math-vector.h \
+ /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_val.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_valf.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_vall.h \
+ /usr/include/x86_64-linux-gnu/bits/inf.h \
+ /usr/include/x86_64-linux-gnu/bits/nan.h \
+ /usr/include/x86_64-linux-gnu/bits/mathdef.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
+ /usr/include/x86_64-linux-gnu/bits/mathinline.h ../include/pjmedia/rtp.h \
+ ../include/pjmedia/silencedet.h ../include/pjmedia/sound.h \
+ ../include/pjmedia/sound_port.h ../include/pjmedia/splitcomb.h \
+ ../include/pjmedia/stereo.h ../include/pjmedia/stream.h \
+ ../include/pjmedia/vid_codec.h ../include/pjmedia/stream_common.h \
+ ../include/pjmedia/tonegen.h \
+ ../include/pjmedia/transport_adapter_sample.h \
+ ../include/pjmedia/transport_ice.h \
+ ../../pjnath/include/pjnath/ice_strans.h \
+ ../../pjnath/include/pjnath/ice_session.h \
+ ../../pjnath/include/pjnath/types.h ../../pjnath/include/pjnath/config.h \
+ ../../pjnath/include/pjnath/stun_session.h \
+ ../../pjnath/include/pjnath/stun_msg.h \
+ ../../pjnath/include/pjnath/stun_auth.h \
+ ../../pjnath/include/pjnath/stun_config.h \
+ ../../pjnath/include/pjnath/stun_transaction.h \
+ ../../pjlib/include/pj/lock.h ../../pjlib/include/pj/timer.h \
+ ../../pjnath/include/pjnath/errno.h \
+ ../../pjnath/include/pjnath/stun_sock.h \
+ ../../pjlib-util/include/pjlib-util/resolver.h \
+ ../../pjlib-util/include/pjlib-util/dns.h \
+ ../../pjlib-util/include/pjlib-util/types.h \
+ ../../pjlib-util/include/pjlib-util/config.h \
+ ../../pjlib/include/pj/ioqueue.h ../../pjlib/include/pj/sock_qos.h \
+ ../../pjnath/include/pjnath/turn_sock.h \
+ ../../pjnath/include/pjnath/turn_session.h \
+ ../include/pjmedia/transport_loop.h ../include/pjmedia/transport_srtp.h \
+ ../include/pjmedia/transport_udp.h ../include/pjmedia/vid_port.h \
+ ../include/pjmedia-videodev/videodev.h ../include/pjmedia/videodev.h \
+ ../include/pjmedia-videodev/config.h ../include/pjmedia-videodev/errno.h \
+ ../include/pjmedia/vid_stream.h ../include/pjmedia/vid_tee.h \
+ ../include/pjmedia/wav_playlist.h ../include/pjmedia/wav_port.h \
+ ../include/pjmedia/wave.h ../include/pjmedia/wsola.h \
+ ../../pjlib/include/pjlib.h ../../pjlib/include/pj/activesock.h \
+ ../../pjlib/include/pj/addr_resolv.h ../../pjlib/include/pj/array.h \
+ ../../pjlib/include/pj/ctype.h ../../pjlib/include/pj/compat/ctype.h \
+ /usr/include/ctype.h ../../pjlib/include/pj/except.h \
+ ../../pjlib/include/pj/compat/setjmp.h /usr/include/setjmp.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp2.h \
+ ../../pjlib/include/pj/log.h ../../pjlib/include/pj/fifobuf.h \
+ ../../pjlib/include/pj/file_access.h ../../pjlib/include/pj/file_io.h \
+ ../../pjlib/include/pj/guid.h ../../pjlib/include/pj/hash.h \
+ ../../pjlib/include/pj/ip_helper.h ../../pjlib/include/pj/pool_buf.h \
+ ../../pjlib/include/pj/rand.h ../../pjlib/include/pj/rbtree.h \
+ ../../pjlib/include/pj/sock_select.h ../../pjlib/include/pj/ssl_sock.h \
+ ../../pjlib/include/pj/unicode.h
+../bin/pjmedia-test-x86_64-unknown-linux-gnu: ../lib/libpjmedia-x86_64-unknown-linux-gnu.a ../lib/libpjmedia-codec-x86_64-unknown-linux-gnu.a /home/sd/sundong/pjproject-2.7/pjnath/lib/libpjnath-x86_64-unknown-linux-gnu.a /home/sd/sundong/pjproject-2.7/pjlib-util/lib/libpjlib-util-x86_64-unknown-linux-gnu.a /home/sd/sundong/pjproject-2.7/pjlib/lib/libpj-x86_64-unknown-linux-gnu.a
