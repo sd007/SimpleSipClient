@@ -251,18 +251,18 @@ pj_status_t MediaClient::unregisterClient(SIPClient &cltparam)
     pj_str_t dststr = pj_str(dst);
     status = pjsip_regc_init(regc, &dststr, &localstr, &localstr, 1, contacts, cltparam.regValidSeconds);
     PJ_ASSERT_RETURN(status == PJ_SUCCESS, 1);
-//    pjsip_cred_info cred;
-//    pj_bzero(&cred, sizeof(cred));
-//    cred.realm = pj_str("*");
-//    cred.scheme = pj_str("digest");
-//    char username[64] = {0};
-//    pj_ansi_snprintf(username, 64,"%s", cltparam.localDeviceID.toStdString().c_str());
-//    cred.username = pj_str(username);
-//    cred.data_type = PJSIP_CRED_DATA_PLAIN_PASSWD;
-//    char passwd[64] = {0};
-//    pj_ansi_snprintf(passwd, 64,"%s", cltparam.localPasswd.toStdString().c_str());
-//    cred.data = pj_str(passwd);
-//    status = pjsip_regc_set_credentials(regc, 1, &cred);
+    pjsip_cred_info cred;
+    pj_bzero(&cred, sizeof(cred));
+    cred.realm = pj_str("*");
+    cred.scheme = pj_str("digest");
+    char username[64] = {0};
+    pj_ansi_snprintf(username, 64,"%s", cltparam.localDeviceID.toStdString().c_str());
+    cred.username = pj_str(username);
+    cred.data_type = PJSIP_CRED_DATA_PLAIN_PASSWD;
+    char passwd[64] = {0};
+    pj_ansi_snprintf(passwd, 64,"%s", cltparam.localPasswd.toStdString().c_str());
+    cred.data = pj_str(passwd);
+    status = pjsip_regc_set_credentials(regc, 1, &cred);
 
     /* Register */
     pjsip_tx_data *tdata;
